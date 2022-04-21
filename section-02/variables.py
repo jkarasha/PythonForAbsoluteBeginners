@@ -7,6 +7,8 @@ my_salary = 100.25
 #boolean
 i_love_coding = True
 
+print(my_name)
+
 #Reassigned
 my_name = "Joseph Karasha"
 my_height = 59
